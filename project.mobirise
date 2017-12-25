@@ -122,9 +122,9 @@
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 2",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Phone: +1-519-623-8670</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.google.ca/maps/place/Rainbowy+Nails/@43.3960643,-80.3241226,14z\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Address:&nbsp;425 Hespeler Rd #8, Cambridge, ON N1R 6J2</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Phone: <br>+1-519-623-8670</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.google.ca/maps/place/Rainbowy+Nails/@43.3960643,-80.3241226,14z\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Address:&nbsp;<br>425 Hespeler Rd #8,<br>Cambridge, ON N1R 6J2</a> "
               }
             ]
           },
