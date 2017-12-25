@@ -77,8 +77,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1618x1080.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -117,7 +117,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
