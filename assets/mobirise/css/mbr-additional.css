@@ -1,10 +1,24 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
-#header2-0 P {
-  color: #000000;
-  font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+#msg-box3-o .mbr-header .mbr-header__text {
+  text-align: center;
 }
-#slider-1 H2 {
-  color: #da322d;
+#msg-box3-o .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content4-4 P {
+  text-align: center;
+}
+#contacts2-7 P {
+  color: #ffffff;
+}
+#menu-9 .navbar-toggler {
+  color: #605d5d;
+}
+#menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-9 .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-9 .mbr-navbar__hamburger {
+  color: #605d5d;
 }
